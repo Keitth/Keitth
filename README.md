@@ -5,6 +5,6 @@
 
 ## Social Media Accounts
 <p align="left">
-<a href="https://discord.com/users/933462930995941426" target"blank_"><img src="https://img.shields.io/badge/Discord-ff0000?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://open.spotify.com/user/31z5hyhrgv6xwf2jshiheuidvx44?si=1db691af63424027" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-2ec945.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://discord.com/users/933462930995941426" target"blank_"><img src="https://img.shields.io/badge/Discord-ff0000?style=for-the-badge&logo=discord&logoColor=black"></a>
+<a href="https://open.spotify.com/user/31z5hyhrgv6xwf2jshiheuidvx44?si=1db691af63424027" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-2ec945.svg?&style=for-the-badge&logo=spotify&logoColor=black"></a>
 
