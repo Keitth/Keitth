@@ -2,7 +2,7 @@
 
 ⭐ Hi, I'm Ayfer. I've been a discord member for about 5 years and have a [public server](https://discord.gg/rabelion). If you want to reach me, you can easily reach me by clicking the button that I have specified my discord account below. I love you everyone, see you ❤️
 
-| <a href="https://github.com/Keitth/Keitth"><img align="center" src="https://Keitth.vercel.app/api?username=Keitth&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Grave's github stats" /></a>
+| <a href="https://github.com/Keitth/Keitth"><img align="center" src="https://github.com/Keitth/Keitth.vercel.app/api?username=Keitth&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Grave's github stats" /></a>
 
 ## Social Media Accounts
 <p align="left">
