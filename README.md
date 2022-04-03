@@ -1,6 +1,6 @@
 ## Hello Everyone <img src="https://cdn.discordapp.com/emojis/888711638755188766.png" width="25px">
 
-⭐ Hi, I'm Özgür. I've been a discord member for about 5 years and have a [crew server](https://discord.gg/144). If you want to reach me, you can easily reach me by clicking the button that I have specified my discord account below. I love you everyone, see you ❤️
+⭐ Hi, I'm Keitth. I've been a discord member for about 5 years and have a [crew server](https://discord.gg/144). If you want to reach me, you can easily reach me by clicking the button that I have specified my discord account below. I love you everyone, see you ❤️
 
 | <a href="https://github.com/Keitth/Keitth"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Keitth&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ayfer's github stats" /></a> | <a href="https://github.com/Keitth/Keitth"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keitth&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
